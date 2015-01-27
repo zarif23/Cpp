@@ -1,7 +1,6 @@
 //I've solved this problem in spoj.
 //Here is the link of the problem : http://www.spoj.com/problems/ADDREV/
 
-
 #include <stdio.h>
 #include <string>
 #include <cstring>
